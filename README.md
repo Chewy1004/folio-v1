@@ -4,12 +4,6 @@
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/victorcodess/folio-v1
-```
-
 Go to the project directory
 
 ```bash
